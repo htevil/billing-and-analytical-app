@@ -1,0 +1,135 @@
+[
+  {
+    "user": "user2",
+    "cuisine": "North Indian",
+    "dish": "Chole Bhature",
+    "cost": 100,
+    "time": "2024-01-03T11:38:53.996845"
+  },
+  {
+    "user": "user1",
+    "cuisine": "South Indian",
+    "dish": "Uttapam",
+    "cost": 100,
+    "time": "2024-01-03T11:41:32.215689"
+  },
+  {
+    "user": "user1",
+    "cuisine": "South Indian",
+    "dish": "Idli",
+    "cost": 150,
+    "time": "2024-01-03T11:41:32.215689"
+  },
+  {
+    "user": "user3",
+    "cuisine": "North Indian",
+    "dish": "Chole Bhature",
+    "cost": 100,
+    "time": "2024-01-03T11:43:12.704944"
+  },
+  {
+    "user": "user4",
+    "cuisine": "Italian",
+    "dish": "Pasta",
+    "cost": 100,
+    "time": "2024-01-03T11:44:37.390416"
+  },
+  {
+    "user": "user4",
+    "cuisine": "Chinese",
+    "dish": "Fried Rice",
+    "cost": 150,
+    "time": "2024-01-03T11:44:37.390416"
+  },
+  {
+    "user": "user5",
+    "cuisine": "North Indian",
+    "dish": "Chole Bhature",
+    "cost": 100,
+    "time": "2024-01-03T11:45:53.623070"
+  },
+  {
+    "user": "user5",
+    "cuisine": "South Indian",
+    "dish": "Idli",
+    "cost": 150,
+    "time": "2024-01-03T11:45:53.623070"
+  },
+  {
+    "user": "user5",
+    "cuisine": "Italian",
+    "dish": "Pasta",
+    "cost": 250,
+    "time": "2024-01-03T11:45:53.623070"
+  },
+  {
+    "user": "user6",
+    "cuisine": "North Indian",
+    "dish": "Chole Bhature",
+    "cost": 100,
+    "time": "2024-01-03T11:46:49.806477"
+  },
+  {
+    "user": "user6",
+    "cuisine": "South Indian",
+    "dish": "Idli",
+    "cost": 150,
+    "time": "2024-01-03T11:46:49.806477"
+  },
+  {
+    "user": "user6",
+    "cuisine": "Italian",
+    "dish": "Pasta",
+    "cost": 250,
+    "time": "2024-01-03T11:46:49.806477"
+  },
+  {
+    "user": "user6",
+    "cuisine": "Chinese",
+    "dish": "Fried Rice",
+    "cost": 300,
+    "time": "2024-01-03T11:46:49.806477"
+  },
+  {
+    "user": "user6",
+    "cuisine": "Mexican",
+    "dish": "Huevos a la Mexicana",
+    "cost": 450,
+    "time": "2024-01-03T11:46:49.806477"
+  },
+  {
+    "user": "user6",
+    "cuisine": "South Indian",
+    "dish": "Vada",
+    "cost": 550,
+    "time": "2024-01-03T11:46:49.806477"
+  },
+  {
+    "user": "user7",
+    "cuisine": "North Indian",
+    "dish": "Chole Bhature",
+    "cost": 100,
+    "time": "2024-01-03T11:52:02.587035"
+  },
+  {
+    "user": "user7",
+    "cuisine": "South Indian",
+    "dish": "Idli",
+    "cost": 150,
+    "time": "2024-01-03T11:52:02.587035"
+  },
+  {
+    "user": "harshit ",
+    "cuisine": "South Indian",
+    "dish": "Idli",
+    "cost": 50,
+    "time": "2024-01-03T12:32:39.529186"
+  },
+  {
+    "user": "harshit ",
+    "cuisine": "Chinese",
+    "dish": "Dim Sum",
+    "cost": 150,
+    "time": "2024-01-03T12:32:39.529186"
+  }
+]
